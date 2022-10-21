@@ -1,3 +1,4 @@
 # PortfolioProjects
 Tableau Dashbeard that goes along with the COVID-19 project 
-link: https://github.com/esanch58/PortfolioProjects 
+link: https://public.tableau.com/app/profile/ethan.j.sanchez/viz/PortfolioProject_Covid19/Dashboard1#1
+
